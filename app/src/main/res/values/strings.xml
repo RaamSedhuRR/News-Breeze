@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">NewsBreeze</string>
+    <string name="title_app">News Breeze</string>
+    <string name="saved_items_btn">Saved_Items</string>
+    <string name="search_text">Search</string>
+    <string name="filter_text">Filter</string>
+    <string name="news_title_text">Lorem ipsum dolor sit amet consectetur adi</string>
+    <string name="news_description_text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusan ium doloremque laudan...</string>
+    <string name="news_image">news_image</string>
+    <string name="news_date_text">29-03-21</string>
+    <string name="read_btn_text">Read</string>
+    <string name="save_btn_text">Save</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="back_button_text">Back Button</string>
+    <string name="saved_title_text">Saved</string>
+    <string name="today_text">Today</string>
+    <string name="see_all_text">See All..</string>
+    <string name="author_image_text">Author_Image</string>
+    <string name="news_image_text">News_Image</string>
+    <string name="author_name_text">James Adam</string>
+    <string name="author_role_text">Lorem Correspondent</string>
+    <string name="news_full_description_text">Washington - Sed ut perspiciatis un natus error sit voluptatem accusan ium doloremque laudan. sed quia consequuntur magni dolores eos ratione voluptatem sequi nesciunt. Neque porro quisqua uia non mest, qui dolorem ipsum quia dolo rsit amet, consectetur, adipisci velit sed quia non numquam eius modi empora incidunt ut labore et dolo magnam aliquam quaerat volupta. Ut enim ad minima veniam, quis ostrum exercitationem ullam corri suscipit laboriosam, nisi ut aliqu.</string>
+    <string name="news_hastag_text">#protest</string>
+    <string name="dot_text">-</string>
+    <string name="splash_bottom_text">by Raam Sedhu RR</string>
+    <string name="app_logo_text">App_Logo</string>
+</resources>
